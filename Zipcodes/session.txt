@@ -1,0 +1,35 @@
+Script started on Wed Apr 24 20:04:33 2019
+[?1034hbash-3.2$ ./assignment9
+Found 41873 zip codes.
+
+warning: this program uses gets(), which is unsafe.
+Enter a zip code (type STOP to end): 220 207
+ARLINGTON, VA latitude 38.87 longitude -77.10
+
+Enter another zip code (type STOP to end): 19010
+BRYN MAWR, PA latitude 40.02 longitude -75.31
+
+Enter another zip code (type STOP to end): 67659
+PENOKEE, KS latitude 39.35 longitude -99.97
+
+Enter another zip code (type STOP to end): 6673
+BRIDGEPORT, CT latitude 41.18 longitude -73.19
+
+Enter another zip code (type STOP to end): 99999
+Not found.
+
+Enter another zip code (type STOP to end): 20515
+WASHINGTON, DC latitude 38.89 longitude -77.03
+
+Enter another zip code (type STOP to end): 94114
+SAN FRANCISCO, CA latitude 37.75 longitude -122.43
+
+Enter another zip code (type STOP to end): 90210
+BEVERLY HILLS, CA latitude 34.09 longitude -118.41
+
+Enter another zip code (type STOP to end): STOP
+Goodbye!
+bash-3.2$ exit
+exit
+
+Script done on Wed Apr 24 20:06:57 2019
