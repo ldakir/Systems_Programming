@@ -1,0 +1,67 @@
+Script started on 2019-02-04 20:28:26-05:00 [TERM="xterm-256color" TTY="/dev/pts/20" COLUMNS="97" LINES="38"]
+]0;ldakir@powerpuff:~/cs246[ldakir@powerpuff cs246]$ ./adds
+Enter a number: 3
+Enter a number: 4
+Enter a number: 5
+Enter a number: 123
+Enter a number: 9
+Enter a number: 0
+Sum: 144
+]0;ldakir@powerpuff:~/cs246[ldakir@powerpuff cs246]$ ./calc
+Enter an operation: +
+Enter a number: 12
+Enter a number: 345 
+12 + 34 = 46
+Enter an operation: -
+Enter a number: 23
+Enter a number: 7
+23 - 7 = 16
+Enter an operation: *
+Enter a number: 12
+Enter a number: 6
+12 * 6 = 72
+Enter an operation: /
+Enter a number: 12  96
+Enter a number: 5
+96 / 5 = 19
+Enter an operation: /
+Enter a number: 234
+Enter a number: 0
+Cannot divide by 0
+Try again.
+
+Enter an operation: #
+Enter a number: 2
+Enter a number: 3
+Invalid Operator
+Try again.
+
+Enter an operation: 0
+Good-bye.
+]0;ldakir@powerpuff:~/cs246[ldakir@powerpuff cs246]$ ./calc adds[C[K[K[K[K[Kcircle
+Enter the radius of a circle: 9
+The circumference of a circle with radius 9 is 56.549
+The area of a circle with radius 9 is 2.545e+02
+
+Enter the radius of a circle: 234
+The circumference of a circle with radius 234 is 1470.265
+The area of a circle with radius 234 is 1.720e+05
+
+Enter the radius of a circle: 4
+The circumference of a circle with radius 4 is 25.133
+The area of a circle with radius 4 is 5.027e+01
+
+Enter the radius of a circle: -9
+Illegal radius: -9
+Try again.
+
+Enter the radius of a circle: 23
+The circumference of a circle with radius 23 is 144.513
+The area of a circle with radius 23 is 1.662e+03
+
+Enter the radius of a circle: 0
+Good-bye.
+]0;ldakir@powerpuff:~/cs246[ldakir@powerpuff cs246]$ exit
+exit
+
+Script done on 2019-02-04 20:30:16-05:00 [COMMAND_EXIT_CODE="127"]

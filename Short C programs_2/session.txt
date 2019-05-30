@@ -1,0 +1,63 @@
+Script started on Fri Feb  8 17:50:28 2019
+[?1034hbash-3.2$ ./shout
+Hello, how are you?
+HELLO, HOW ARE YOU?
+Her sister took the SAT.
+HER SISTER TOOK THE SAT.
+The zip code is 19010.
+THE ZIP CODE IS 19010.
+Whose phone number is 800-555-1212?
+WHOSE PHONE NUMBER IS 800-555-1212?
+
+
+Bryn Mawr College
+101 North Merion Ave
+Bryn Mawr, PA 19010-2899
+Copyright (c) 2019
+BRYN MAWR COLLEGE
+101 NORTH MERION AVE
+BRYN MAWR, PA 19010-2899
+COPYRIGHT (C) 2019
+
+
+^Dbash-3.2$ ./shout < alice.txt
+"WOULD YOU TELL ME, PLEASE, WHICH WAY I OUGHT TO GO FROM HERE?" "THAT DEPENDS A GOOD DEAL ON WHERE YOU WANT TO GET TO."
+"I DON'T MUCH CARE WHERE --"
+"THEN IT DOESN'T MATTER WHICH WAY YOU GO. "
+- LEWIS CARROLL, ALICE IN WONDERLAND
+bash-3.2$ ./[K[K.\[K./[K[K/mywc < RobertFirth.txt
+4 30 174
+bash-3.2$ wc RobertFirth.txt
+       4      30     174 RobertFirth.txt
+bash-3.2$ ./mywc alice.txt [1@<[1@
+4 46 230
+bash-3.2$ wc alice.txt
+       4      46     230 alice.txt
+bash-3.2$ ./sort
+0
+1
+2
+3
+4
+-9
+6
+7
+8
+9
+Unsorted
+bash-3.2$ gcc -Wall -o sort sort.c[C[C[C[C[C[C[C[C[C[C./sort [K
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Sorted
+bash-3.2$ exit
+exit
+
+Script done on Fri Feb  8 17:57:49 2019
