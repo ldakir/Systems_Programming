@@ -1,0 +1,31 @@
+Script started on Sun Mar  3 22:48:16 2019
+[?1034hbash-3.2$ ./digital_display 
+program will transform the numerals into a 7-segment display. To stop looping, type the enter key with no input.
+
+Enter number: 703-555-1212
+ _   _   _   _   _   _       _       _  
+  | | |  _| |_  |_  |_    |  _|   |  _| 
+  | |_|  _|  _|  _|  _|   | |_    | |_  
+Enter number: 123 456 7890
+     _   _       _   _   _   _   _   _  
+  |  _|  _| |_| |_  |_    | |_| |_| | | 
+  | |_   _|   |  _| |_|   | |_|   | |_| 
+Enter number: BMC 360
+ _   _   _                              
+ _| |_  | |                             
+ _| |_| |_|                             
+Enter number: Hello 999
+ _   _   _                              
+|_| |_| |_|                             
+  |   |   |                             
+Enter number: 3.14
+ _                                      
+ _|   | |_|                             
+ _|   |   |                             
+Enter number: 
+
+Thank you and goodbye!
+bash-3.2$ exit
+exit
+
+Script done on Sun Mar  3 22:49:09 2019
