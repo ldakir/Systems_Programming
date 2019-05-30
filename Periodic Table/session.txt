@@ -1,0 +1,40 @@
+Script started on Mon Apr 15 21:23:29 2019
+[?1034hbash-3.2$ ./assignment8 
+Enter Atomic Number, Name or Chemical Symbol:
+warning: this program uses gets(), which is unsafe.
+Calbium    cium
+20 Calcium Ca alkaline_earth_metal 40.078000 2 8 8 2 0 0 0 
+bash-3.2$ ./assignment8 
+Enter Atomic Number, Name or Chemical Symbol:
+warning: this program uses gets(), which is unsafe.
+26
+26 Iron Fe transition_metal 55.845000 2 8 1 4 2 0 0 
+bash-3.2$ ./assignment8 
+Enter Atomic Number, Name or Chemical Symbol:
+warning: this program uses gets(), which is unsafe.
+Cl
+17 Chlorine Cl halogen 35.453000 2 8 7 0 0 0 0 
+bash-3.2$ ./assignment8 
+Enter Atomic Number, Name or Chemical Symbol:
+warning: this program uses gets(), which is unsafe.
+Neon
+10 Neon Ne noble_gas 55.845000 2 8 0 0 0 0 0 
+bash-3.2$ ./assignment8 
+Enter Atomic Number, Name or Chemical Symbol:
+warning: this program uses gets(), which is unsafe.
+Hy 
+1 Hydrogen H non_metal 1.007900 1 0 0 0 0 0 0 
+bash-3.2$ ./assignment8 
+Enter Atomic Number, Name or Chemical Symbol:
+warning: this program uses gets(), which is unsafe.
+Pb
+82 Lead Pb poor_metal 207.200000 2 8 18 32 18 4 0 
+bash-3.2$ ./assignment8 
+Enter Atomic Number, Name or Chemical Symbol:
+warning: this program uses gets(), which is unsafe.
+17
+17 Chlorine Cl halogen 35.453000 2 8 7 0 0 0 0 
+bash-3.2$ exit
+exit
+
+Script done on Mon Apr 15 21:24:32 2019
